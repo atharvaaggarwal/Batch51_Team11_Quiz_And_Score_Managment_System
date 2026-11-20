@@ -9,8 +9,7 @@
 - **Batch:** 51
 - **Team Members:**
   - Atharva Aggarwal ((590040766))
-  - Sanidhaya
-  - aksit
+  - aksit((590040868))
 
 ---
 
@@ -409,7 +408,6 @@ The project provided practical experience in designing program logic, implementi
 **Batch 51**
 
 - **Atharva Aggarwal**
-- **Sanidhaya**
 - **Akshit**
 
 **UPES - C Programming Mini Hackathon**
