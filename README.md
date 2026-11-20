@@ -8,9 +8,9 @@
 - **Course:** C Programming Lab
 - **Batch:** 51
 - **Team Members:**
-  - Atharva Aggarwal
+  - Atharva Aggarwal ((590040766))
   - Sanidhaya
-  - Akshit
+  - aksit
 
 ---
 
